@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-<!--
-**gulectufan/gulectufan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tufan GÜLEÇ. 
 
-Here are some ideas to get you started:
+I have been working as Senior R&D Engineer at Pijet TEchnology. I currently work on CIJ Printer
+
+I'm interested in Cloud Compting, DevOps and Frontend development. 
+
+I'm skilled in C, Python, JavaScript languages. 
+
+You can reach me on:
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
