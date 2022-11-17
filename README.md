@@ -2,7 +2,7 @@
 
 I'm Tufan GÜLEÇ. 
 
-I have been working as Senior R&D Engineer at Pijet TEchnology. I currently work on CIJ Printer
+I have been working as Senior R&D Engineer at Pijet Technology. I currently work on CIJ Printer
 
 I'm interested in Cloud Compting, DevOps and Frontend development. 
 
