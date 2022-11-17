@@ -9,7 +9,7 @@ I'm interested in Cloud Compting, DevOps and Frontend development.
 I'm skilled in C, Python, JavaScript languages. 
 
 You can reach me on:
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Linkedin](https://www.google.com "Google's Homepage")
 
 
 <!--
