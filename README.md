@@ -9,7 +9,9 @@ I'm interested in Cloud Compting, DevOps and Frontend development.
 I'm skilled in C, Python, JavaScript languages. 
 
 You can reach me on:
-[Linkedin](https://www.google.com "Google's Homepage")
+[Linkedin](https://www.linkedin.com/in/gulectufan/ "Tufan GÜLEÇ - Linkedin page")
+
+[Take a look at my badges](https://www.credly.com/users/gulectufan/badges "Tufan GÜLEÇ - Creedly")
 
 
 <!--
