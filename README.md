@@ -10,7 +10,7 @@ I'm skilled in C, Python, JavaScript languages.
 
 You can reach me on:
 
-[Linkedin](https://www.linkedin.com/in/gulectufan/ "Tufan GÜLEÇ - Linkedin page")
+- [Linkedin](https://www.linkedin.com/in/gulectufan/ "Tufan GÜLEÇ - Linkedin page")
 
 [Take a look at my badges](https://www.credly.com/users/gulectufan/badges "Tufan GÜLEÇ - Creedly")
 
