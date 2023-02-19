@@ -27,5 +27,6 @@ You can reach me on:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&hide_progress=true)]
-https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&hide_progress=true
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/gulectufan/github-readme-stats)
+
