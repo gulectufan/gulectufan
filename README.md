@@ -27,6 +27,11 @@ You can reach me on:
 - ⚡ Fun fact: ...
 -->
 
+
+<!-- Most Used Languages 
+- kaynak kodu : https://github.com/anuraghazra/github-readme-stats 
+- C mikatarını artırınca bunu kullan [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&layout=compact)](https://github.com/gulectufan/github-readme-stats)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&hide_progress=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&layout=compact)](https://github.com/gulectufan/github-readme-stats)
+
 
