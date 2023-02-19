@@ -28,3 +28,4 @@ You can reach me on:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&hide_progress=true)]
+https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&hide_progress=true
