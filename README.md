@@ -8,10 +8,6 @@ You can reach me on:
 
 - [Linkedin](https://www.linkedin.com/in/gulectufan/ "Tufan GÜLEÇ - Linkedin page")
 
-[Take a look at my badges on Cedly](https://www.credly.com/users/gulectufan/badges "Tufan GÜLEÇ - Credly")
-
-[Take a look at my badges on Certifier](https://verified.sertifier.com/en/profile/tufangulec796330 "Tufan GÜLEÇ - Certifier")
-
 Take a look at my badges on [Cedly](https://www.credly.com/users/gulectufan/badges "Tufan GÜLEÇ - Credly") | [Certifier](https://verified.sertifier.com/en/profile/tufangulec796330 "Tufan GÜLEÇ - Certifier")
 
 <!--
