@@ -2,17 +2,14 @@
 
 I'm Tufan GÜLEÇ. 
 
-I have been working as Senior R&D Engineer at Pijet Technology. I currently work on CIJ Printer
-
-I'm interested in Cloud Compting, DevOps and Frontend development. 
-
-I'm skilled in C, Python, JavaScript languages. 
+I'm interested in Cloud Compting, DevOps and FullStack development. 
 
 You can reach me on:
 
 - [Linkedin](https://www.linkedin.com/in/gulectufan/ "Tufan GÜLEÇ - Linkedin page")
 
-[Take a look at my badges](https://www.credly.com/users/gulectufan/badges "Tufan GÜLEÇ - Creedly")
+[Take a look at my badges on Cedly](https://www.credly.com/users/gulectufan/badges "Tufan GÜLEÇ - Creedly")
+[Take a look at my badges on Certifier](https://verified.sertifier.com/en/profile/tufangulec796330 "Tufan GÜLEÇ - Certifier")
 
 
 <!--
