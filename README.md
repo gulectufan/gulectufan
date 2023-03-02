@@ -29,4 +29,6 @@ Take a look at my badges on [Cedly](https://www.credly.com/users/gulectufan/badg
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&hide_progress=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&langs_count=8)
+
 
