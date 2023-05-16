@@ -31,7 +31,7 @@ son kullandığım:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&hide_progress=true&langs_count=8)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&layout=compact&langs_count=10)
 
 <!-- Oranlı gösterim
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulectufan&langs_count=8)    
